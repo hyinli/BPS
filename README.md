@@ -110,7 +110,7 @@
 
 ## 组织细胞/网状细胞
 ---------
-![image](https://user-images.githubusercontent.com/49932588/169307084-b5e756eb-cda9-4592-9927-7f53bb6f10bc.png)
+![image](https://user-images.githubusercontent.com/49932588/169475749-7302858d-b5e1-418c-88db-278561e1d635.png)
 ## 退化的细胞核/涂抹细胞
 ---------
 ![image](https://user-images.githubusercontent.com/49932588/169307293-d9ce4664-7ff1-4784-aef8-1ab785ad62af.png)
@@ -143,4 +143,7 @@
 ![image](https://user-images.githubusercontent.com/49932588/169307884-7b39181e-7f2c-4e78-ad43-bcbc40b95977.png)
 
 ## 破骨细胞
+---------
+![image](https://user-images.githubusercontent.com/49932588/169475825-db1664a8-3ef7-4eab-9e08-1be8d814d8f7.png)
+## 骨髓小粒
 ---------
